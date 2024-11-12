@@ -53,7 +53,7 @@ I’m a passionate **AI and Machine Learning enthusiast** currently pursuing a B
 
 ### 🌐 Connect with Me
 - **LinkedIn:** [linkedin.com/in/yash-sharma-3xz](https://www.linkedin.com/in/yash-sharma-3xz/)
-- **Website:** [yourwebsite.com](https://thinker-dev.vercel.app/)
+- **Website:** [thinker.dev.com](https://thinker-dev.vercel.app/)
 - **Email:** [yashsharmaat2004@gmail.com](mailto:yashsharmaat2004@gmail.com)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Yash182023.Yash182023)
